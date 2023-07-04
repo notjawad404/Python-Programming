@@ -16,4 +16,3 @@ print("2023 is leap year? ",calendar.isleap(2023))
 
 print("All calender functions: \n", dir(calendar))
 print("--------------------------------\n")
-
