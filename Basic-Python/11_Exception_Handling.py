@@ -14,6 +14,7 @@ print("Answer = ", num3)  # Print the value of num3
 
 # Handling Multiple Specific Exceptions
 
+
 number1 = input("Enter Number 1: ")
 number2 = input("Enter Number 2: ")
 
