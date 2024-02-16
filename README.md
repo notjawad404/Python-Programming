@@ -1,6 +1,6 @@
 # Python-Programming
 
-Basic to Advance Python Programming
+Basic to Advanced Python Programming
 1. Simple Python Programs
-2. Simole Python Projects
+2. Simple Python Projects
 3. Numpy Basic
