@@ -21,11 +21,11 @@ person['B'] = {
 str = json.dumps(person)
 
 # Write the JSON string to a file
-with open('C:/Users/jawad/Desktop/python/Python-Programming/Basic-Python/folder/person.txt', 'w') as file:
+with open('person.txt', 'w') as file:
     file.write(str)
     
 # Read the contents of the file
-file = open('C:/Users/jawad/Desktop/python/Python-Programming/Basic-Python/folder/person.txt', 'r')
+file = open('person.txt', 'r')
 str1 = file.read()
 
 # Print the contents of the file
