@@ -1,1 +1,0 @@
-{"A": {"name": "John Price", "address": "ABC 12 AC", "phone_number": 1213232334256}, "B": {"name": "Simon Riely", "address": "2 Grove Street LA", "phone_number": 1213232334256}}
